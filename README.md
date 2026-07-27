@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Christopher Haley 👋
 
-<!--
-**christopherhaley-sec/christopherhaley-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.S. Cybersecurity** | 💻 **Aspiring Help Desk / Junior Systems Administrator**
 
-Here are some ideas to get you started:
+I am a cybersecurity graduate working on building practical, hands-on IT administration and system engineering skills. I specialize in Windows Server management, Active Directory automation, enterprise networking concepts, and troubleshooting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Skills
+
+* **Operating Systems:** Windows 10/11, Windows Server, Linux (Ubuntu/Debian)
+* **Directory Services & SysAdmin:** Active Directory (AD), Group Policy (GPO), DNS, DHCP, User/OU Management
+* **Scripting & Automation:** PowerShell, Bash, Python
+* **Virtualization & Labs:** Oracle VirtualBox, VMware Workstation, Virtual Machines
+* **Core Concepts:** TCP/IP Networking, System Hardening, Log Analysis, Technical Troubleshooting
+
+---
+
+### 📁 Featured Projects & Labs
+
+* 🖥️ **[Active-Directory-Home-Lab](./Active-Directory-Home-Lab)**: Multi-VM environment configured with Windows Server, AD DS, DNS/DHCP services, and joined Windows 11 client nodes.
+* 📜 **[PowerShell-AD-Automation](./PowerShell-AD-Automation)**: PowerShell scripts for automated bulk user account onboarding from CSV files and group permission assignments.
+* 🛠️ **[SysInfo-Health-Checker](./SysInfo-Health-Checker)**: Cross-platform system diagnostic and health collector script for quick IT support troubleshooting.
+
+---
+
+### 📬 Connect with Me
+
+* **LinkedIn:** www.linkedin.com/in/christopher-haley-0a353b110
