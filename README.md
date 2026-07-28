@@ -18,9 +18,9 @@ I am a cybersecurity graduate working on building practical, hands-on IT adminis
 
 ### 📁 Featured Projects & Labs
 
-* 🖥️ **[Active-Directory-Home-Lab](./Active-Directory-Home-Lab)**: Multi-VM environment configured with Windows Server, AD DS, DNS/DHCP services, and joined Windows 11 client nodes.
-* 📜 **[PowerShell-AD-Automation](./PowerShell-AD-Automation)**: PowerShell scripts for automated bulk user account onboarding from CSV files and group permission assignments.
-* 🛠️ **[SysInfo-Health-Checker](./SysInfo-Health-Checker)**: Cross-platform system diagnostic and health collector script for quick IT support troubleshooting.
+* 🖥️ **[Active-Directory-Home-Lab](https://github.com/christopherhaley-sec/Active-Directory-Home-Lab)**: Multi-VM environment configured with Windows Server, AD DS, DNS/DHCP services, and joined Windows 11 client nodes.
+* 📜 **[PowerShell-AD-Automation](https://github.com/christopherhaley-sec/PowerShell-AD-Automation)**: PowerShell scripts for automated bulk user account onboarding from CSV files and group permission assignments.
+* 🛠️ **[SysInfo-Health-Checker](https://github.com/christopherhaley-sec/SysInfo-Health-Checker)**: Cross-platform system diagnostic and health collector script for quick IT support troubleshooting.
 
 ---
 
