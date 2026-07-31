@@ -1,6 +1,6 @@
 # Hi there, I'm Christopher Haley 👋
 
-🎓 **B.S. Cybersecurity** | 💻 **Aspiring Help Desk / Junior Systems Administrator**
+🎓 **B.S. Cybersecurity** | 💻 **Application Security (AppSec) / DevSecOps Engineer**
 
 I am a cybersecurity graduate working on building practical, hands-on IT administration and system engineering skills. I specialize in Windows Server management, Active Directory automation, enterprise networking concepts, and troubleshooting.
 
