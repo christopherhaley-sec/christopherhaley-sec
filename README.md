@@ -2,7 +2,7 @@
 
 🎓 **B.S. Cybersecurity** | 💻 **Application Security (AppSec) / DevSecOps Engineer**
 
-I am a cybersecurity graduate working on building practical, hands-on IT administration and system engineering skills. I specialize in Windows Server management, Active Directory automation, enterprise networking concepts, and troubleshooting.
+I am a cybersecurity graduate working building a strong foundation in IT systems administration, security automation, and secure software delivery pipelines.
 
 ---
 
