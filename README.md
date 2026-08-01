@@ -1,6 +1,6 @@
 # Hi there, I'm Christopher Haley 👋
 
-🎓 **B.S. Cybersecurity** | 💻 **Aspiring Application Security (AppSec) / DevSecOps Engineer**
+🎓 **B.S. Cybersecurity** | 💻 **Aspiring DevSecOps Engineer**
 
 I am a cybersecurity graduate working building a strong foundation in IT systems administration, security automation, and secure software delivery pipelines.
 
